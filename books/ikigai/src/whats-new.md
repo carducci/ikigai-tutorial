@@ -7,6 +7,10 @@ What has changed in The ikigai Book, most recent first: the date, what was added
 
 ## 2026-10
 
+- **2026-10-18**: Notes from a first run on WSL2: Twenty minutes, nothing compiled says the default CLI build has no QUIC and when to add --features quic, the REPL grammar says which cells only this page's kernel can run and why its list prints more than the expected eleven names, the introduction links the front door, and the getting-started exercises name three things their hints left out (ArgSpec's .default field, ArgRef::Content behind the catch-all arm, and the clock your-endpoints' kernel does not have).
+
+  Pages: [Twenty minutes, nothing compiled](front-door/cli.md), [The REPL grammar](front-door/grammar.md), [Introduction](introduction.md), [Running it](getting-started/running-it.md), [Exercises: getting started](getting-started/exercises.md)
+
 - **2026-10-17**: The shell examples are now replayed against ikigai-cli 0.1.64. The aliases page says its two HTTP rows are the pre-0.2 spelling recorded on 0.1.41, and names the current urn:http:head and urn:http:delete.
 
   Pages: [The aliases, day to day](beyond/emacs-aliases.md), [Where this actually stands](modules/status.md)
